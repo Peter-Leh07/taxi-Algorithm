@@ -60,6 +60,5 @@ const sortTaxisByDistanceForEachPassenger = (somePassengers) => {
     getFreeTaxis(taxiky , pasazieri) 
     getTaxis(pasazieri)}
 
-  export default taxiAlgorithm;
   
   
